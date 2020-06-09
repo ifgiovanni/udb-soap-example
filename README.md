@@ -17,7 +17,7 @@ php -S localhost:80
 | Ruta | Descripción |
 | ------------- | ------------- |
 | `http://localhost/client.php`  | Cliente de consulta para SOAP  |
-| `http://localhost/soap_/server.php?wsdl`  | Definiciones WS  |
+| `http://localhost/server.php?wsdl`  | Definiciones WS  |
 
 
 ## Respuesta del cliente
